@@ -1,0 +1,22 @@
+# Go
+/bin/
+/build/
+/dist/
+*.exe
+*.test
+*.out
+*.log
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Env / Secrets
+.env
+.env.*
+*.local
+
+# Docker
+*.pid
